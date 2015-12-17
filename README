@@ -7,3 +7,6 @@ I hope this helps you execute your approach in parallel in order to speedup the 
 If you have any question I'll gladly answer them, just send me an email.
 
 
+Don't forget to define the number of processors to use when executing the script.
+Ex: python script.py 8
+
